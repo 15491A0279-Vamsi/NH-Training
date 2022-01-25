@@ -1,0 +1,7 @@
+D:\NB HealthCare Training\DotNet Projects\D2p6MultiplicationTable1\D2p6MultiplicationTable1\obj\Debug\D2p6MultiplicationTable1.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\D2p6MultiplicationTable1\D2p6MultiplicationTable1\obj\Debug\D2p6MultiplicationTable1.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\D2p6MultiplicationTable1\D2p6MultiplicationTable1\bin\Debug\D2p6MultiplicationTable1.exe.config
+D:\NB HealthCare Training\DotNet Projects\D2p6MultiplicationTable1\D2p6MultiplicationTable1\bin\Debug\D2p6MultiplicationTable1.exe
+D:\NB HealthCare Training\DotNet Projects\D2p6MultiplicationTable1\D2p6MultiplicationTable1\bin\Debug\D2p6MultiplicationTable1.pdb
+D:\NB HealthCare Training\DotNet Projects\D2p6MultiplicationTable1\D2p6MultiplicationTable1\obj\Debug\D2p6MultiplicationTable1.exe
+D:\NB HealthCare Training\DotNet Projects\D2p6MultiplicationTable1\D2p6MultiplicationTable1\obj\Debug\D2p6MultiplicationTable1.pdb

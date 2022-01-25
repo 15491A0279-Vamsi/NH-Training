@@ -1,0 +1,7 @@
+D:\NB HealthCare Training\DotNet Projects\D2p7Hello5TimesUsingWhile\D2p7Hello5TimesUsingWhile\bin\Debug\D2p7Hello5TimesUsingWhile.exe.config
+D:\NB HealthCare Training\DotNet Projects\D2p7Hello5TimesUsingWhile\D2p7Hello5TimesUsingWhile\bin\Debug\D2p7Hello5TimesUsingWhile.exe
+D:\NB HealthCare Training\DotNet Projects\D2p7Hello5TimesUsingWhile\D2p7Hello5TimesUsingWhile\bin\Debug\D2p7Hello5TimesUsingWhile.pdb
+D:\NB HealthCare Training\DotNet Projects\D2p7Hello5TimesUsingWhile\D2p7Hello5TimesUsingWhile\obj\Debug\D2p7Hello5TimesUsingWhile.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\D2p7Hello5TimesUsingWhile\D2p7Hello5TimesUsingWhile\obj\Debug\D2p7Hello5TimesUsingWhile.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\D2p7Hello5TimesUsingWhile\D2p7Hello5TimesUsingWhile\obj\Debug\D2p7Hello5TimesUsingWhile.exe
+D:\NB HealthCare Training\DotNet Projects\D2p7Hello5TimesUsingWhile\D2p7Hello5TimesUsingWhile\obj\Debug\D2p7Hello5TimesUsingWhile.pdb

@@ -1,0 +1,7 @@
+D:\NB HealthCare Training\DotNet Projects\D2p4FactorialofaNumber\D2p4FactorialofaNumber\bin\Debug\D2p4FactorialofaNumber.exe.config
+D:\NB HealthCare Training\DotNet Projects\D2p4FactorialofaNumber\D2p4FactorialofaNumber\bin\Debug\D2p4FactorialofaNumber.exe
+D:\NB HealthCare Training\DotNet Projects\D2p4FactorialofaNumber\D2p4FactorialofaNumber\bin\Debug\D2p4FactorialofaNumber.pdb
+D:\NB HealthCare Training\DotNet Projects\D2p4FactorialofaNumber\D2p4FactorialofaNumber\obj\Debug\D2p4FactorialofaNumber.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\D2p4FactorialofaNumber\D2p4FactorialofaNumber\obj\Debug\D2p4FactorialofaNumber.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\D2p4FactorialofaNumber\D2p4FactorialofaNumber\obj\Debug\D2p4FactorialofaNumber.exe
+D:\NB HealthCare Training\DotNet Projects\D2p4FactorialofaNumber\D2p4FactorialofaNumber\obj\Debug\D2p4FactorialofaNumber.pdb
