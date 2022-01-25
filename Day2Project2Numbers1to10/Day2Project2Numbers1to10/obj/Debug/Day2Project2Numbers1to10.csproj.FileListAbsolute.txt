@@ -1,0 +1,7 @@
+D:\NB HealthCare Training\DotNet Projects\Day2Project2Numbers1to10\Day2Project2Numbers1to10\bin\Debug\Day2Project2Numbers1to10.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day2Project2Numbers1to10\Day2Project2Numbers1to10\bin\Debug\Day2Project2Numbers1to10.exe
+D:\NB HealthCare Training\DotNet Projects\Day2Project2Numbers1to10\Day2Project2Numbers1to10\bin\Debug\Day2Project2Numbers1to10.pdb
+D:\NB HealthCare Training\DotNet Projects\Day2Project2Numbers1to10\Day2Project2Numbers1to10\obj\Debug\Day2Project2Numbers1to10.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day2Project2Numbers1to10\Day2Project2Numbers1to10\obj\Debug\Day2Project2Numbers1to10.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day2Project2Numbers1to10\Day2Project2Numbers1to10\obj\Debug\Day2Project2Numbers1to10.exe
+D:\NB HealthCare Training\DotNet Projects\Day2Project2Numbers1to10\Day2Project2Numbers1to10\obj\Debug\Day2Project2Numbers1to10.pdb
