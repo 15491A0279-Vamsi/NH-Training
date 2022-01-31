@@ -1,7 +1,0 @@
-D:\NB HealthCare Training\DotNet Projects\D2p5FactorsofaGivenNumber\D2p5FactorsofaGivenNumber\bin\Debug\D2p5FactorsofaGivenNumber.exe.config
-D:\NB HealthCare Training\DotNet Projects\D2p5FactorsofaGivenNumber\D2p5FactorsofaGivenNumber\bin\Debug\D2p5FactorsofaGivenNumber.exe
-D:\NB HealthCare Training\DotNet Projects\D2p5FactorsofaGivenNumber\D2p5FactorsofaGivenNumber\bin\Debug\D2p5FactorsofaGivenNumber.pdb
-D:\NB HealthCare Training\DotNet Projects\D2p5FactorsofaGivenNumber\D2p5FactorsofaGivenNumber\obj\Debug\D2p5FactorsofaGivenNumber.csproj.SuggestedBindingRedirects.cache
-D:\NB HealthCare Training\DotNet Projects\D2p5FactorsofaGivenNumber\D2p5FactorsofaGivenNumber\obj\Debug\D2p5FactorsofaGivenNumber.csproj.CoreCompileInputs.cache
-D:\NB HealthCare Training\DotNet Projects\D2p5FactorsofaGivenNumber\D2p5FactorsofaGivenNumber\obj\Debug\D2p5FactorsofaGivenNumber.exe
-D:\NB HealthCare Training\DotNet Projects\D2p5FactorsofaGivenNumber\D2p5FactorsofaGivenNumber\obj\Debug\D2p5FactorsofaGivenNumber.pdb
