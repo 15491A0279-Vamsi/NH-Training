@@ -1,0 +1,8 @@
+D:\NB HealthCare Training\DotNet Projects\Day 6 Morning Assignment\D6P3GenericUsingforforeachAndLamda\D6P3GenericUsingforforeachAndLamda\bin\Debug\D6P3GenericUsingforforeachAndLamda.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day 6 Morning Assignment\D6P3GenericUsingforforeachAndLamda\D6P3GenericUsingforforeachAndLamda\bin\Debug\D6P3GenericUsingforforeachAndLamda.exe
+D:\NB HealthCare Training\DotNet Projects\Day 6 Morning Assignment\D6P3GenericUsingforforeachAndLamda\D6P3GenericUsingforforeachAndLamda\bin\Debug\D6P3GenericUsingforforeachAndLamda.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 6 Morning Assignment\D6P3GenericUsingforforeachAndLamda\D6P3GenericUsingforforeachAndLamda\obj\Debug\D6P3GenericUsingforforeachAndLamda.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 6 Morning Assignment\D6P3GenericUsingforforeachAndLamda\D6P3GenericUsingforforeachAndLamda\obj\Debug\D6P3GenericUsingforforeachAndLamda.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day 6 Morning Assignment\D6P3GenericUsingforforeachAndLamda\D6P3GenericUsingforforeachAndLamda\obj\Debug\D6P3GenericUsingforforeachAndLamda.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 6 Morning Assignment\D6P3GenericUsingforforeachAndLamda\D6P3GenericUsingforforeachAndLamda\obj\Debug\D6P3GenericUsingforforeachAndLamda.exe
+D:\NB HealthCare Training\DotNet Projects\Day 6 Morning Assignment\D6P3GenericUsingforforeachAndLamda\D6P3GenericUsingforforeachAndLamda\obj\Debug\D6P3GenericUsingforforeachAndLamda.pdb

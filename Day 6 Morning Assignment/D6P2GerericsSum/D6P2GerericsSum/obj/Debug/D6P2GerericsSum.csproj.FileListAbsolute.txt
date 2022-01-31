@@ -1,0 +1,8 @@
+D:\NB HealthCare Training\DotNet Projects\Day 6 Morning Assignment\D6P2GerericsSum\D6P2GerericsSum\bin\Debug\D6P2GerericsSum.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day 6 Morning Assignment\D6P2GerericsSum\D6P2GerericsSum\bin\Debug\D6P2GerericsSum.exe
+D:\NB HealthCare Training\DotNet Projects\Day 6 Morning Assignment\D6P2GerericsSum\D6P2GerericsSum\bin\Debug\D6P2GerericsSum.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 6 Morning Assignment\D6P2GerericsSum\D6P2GerericsSum\obj\Debug\D6P2GerericsSum.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 6 Morning Assignment\D6P2GerericsSum\D6P2GerericsSum\obj\Debug\D6P2GerericsSum.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day 6 Morning Assignment\D6P2GerericsSum\D6P2GerericsSum\obj\Debug\D6P2GerericsSum.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 6 Morning Assignment\D6P2GerericsSum\D6P2GerericsSum\obj\Debug\D6P2GerericsSum.exe
+D:\NB HealthCare Training\DotNet Projects\Day 6 Morning Assignment\D6P2GerericsSum\D6P2GerericsSum\obj\Debug\D6P2GerericsSum.pdb
