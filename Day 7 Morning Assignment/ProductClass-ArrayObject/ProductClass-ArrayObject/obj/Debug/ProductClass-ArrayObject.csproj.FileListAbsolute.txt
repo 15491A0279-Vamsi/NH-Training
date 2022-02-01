@@ -1,0 +1,8 @@
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\ProductClass-ArrayObject\ProductClass-ArrayObject\bin\Debug\ProductClass-ArrayObject.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\ProductClass-ArrayObject\ProductClass-ArrayObject\bin\Debug\ProductClass-ArrayObject.exe
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\ProductClass-ArrayObject\ProductClass-ArrayObject\bin\Debug\ProductClass-ArrayObject.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\ProductClass-ArrayObject\ProductClass-ArrayObject\obj\Debug\ProductClass-ArrayObject.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\ProductClass-ArrayObject\ProductClass-ArrayObject\obj\Debug\ProductClass-ArrayObject.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\ProductClass-ArrayObject\ProductClass-ArrayObject\obj\Debug\ProductClass-ArrayObject.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\ProductClass-ArrayObject\ProductClass-ArrayObject\obj\Debug\ProductClass-ArrayObject.exe
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\ProductClass-ArrayObject\ProductClass-ArrayObject\obj\Debug\ProductClass-ArrayObject.pdb

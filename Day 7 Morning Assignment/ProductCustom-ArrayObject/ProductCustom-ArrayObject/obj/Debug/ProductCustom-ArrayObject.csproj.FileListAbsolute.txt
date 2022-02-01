@@ -1,0 +1,8 @@
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\ProductCustom-ArrayObject\ProductCustom-ArrayObject\bin\Debug\ProductCustom-ArrayObject.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\ProductCustom-ArrayObject\ProductCustom-ArrayObject\bin\Debug\ProductCustom-ArrayObject.exe
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\ProductCustom-ArrayObject\ProductCustom-ArrayObject\bin\Debug\ProductCustom-ArrayObject.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\ProductCustom-ArrayObject\ProductCustom-ArrayObject\obj\Debug\ProductCustom-ArrayObject.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\ProductCustom-ArrayObject\ProductCustom-ArrayObject\obj\Debug\ProductCustom-ArrayObject.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\ProductCustom-ArrayObject\ProductCustom-ArrayObject\obj\Debug\ProductCustom-ArrayObject.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\ProductCustom-ArrayObject\ProductCustom-ArrayObject\obj\Debug\ProductCustom-ArrayObject.exe
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\ProductCustom-ArrayObject\ProductCustom-ArrayObject\obj\Debug\ProductCustom-ArrayObject.pdb

@@ -1,0 +1,8 @@
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\EmployeeClass-ObjectIntialisation\EmployeeClass-ObjectIntialisation\bin\Debug\EmployeeClass-ObjectIntialisation.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\EmployeeClass-ObjectIntialisation\EmployeeClass-ObjectIntialisation\bin\Debug\EmployeeClass-ObjectIntialisation.exe
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\EmployeeClass-ObjectIntialisation\EmployeeClass-ObjectIntialisation\bin\Debug\EmployeeClass-ObjectIntialisation.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\EmployeeClass-ObjectIntialisation\EmployeeClass-ObjectIntialisation\obj\Debug\EmployeeClass-ObjectIntialisation.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\EmployeeClass-ObjectIntialisation\EmployeeClass-ObjectIntialisation\obj\Debug\EmployeeClass-ObjectIntialisation.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\EmployeeClass-ObjectIntialisation\EmployeeClass-ObjectIntialisation\obj\Debug\EmployeeClass-ObjectIntialisation.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\EmployeeClass-ObjectIntialisation\EmployeeClass-ObjectIntialisation\obj\Debug\EmployeeClass-ObjectIntialisation.exe
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\EmployeeClass-ObjectIntialisation\EmployeeClass-ObjectIntialisation\obj\Debug\EmployeeClass-ObjectIntialisation.pdb

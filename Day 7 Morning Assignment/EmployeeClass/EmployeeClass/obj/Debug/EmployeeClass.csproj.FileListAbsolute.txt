@@ -1,0 +1,8 @@
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\EmployeeClass\EmployeeClass\bin\Debug\EmployeeClass.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\EmployeeClass\EmployeeClass\bin\Debug\EmployeeClass.exe
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\EmployeeClass\EmployeeClass\bin\Debug\EmployeeClass.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.exe
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.pdb

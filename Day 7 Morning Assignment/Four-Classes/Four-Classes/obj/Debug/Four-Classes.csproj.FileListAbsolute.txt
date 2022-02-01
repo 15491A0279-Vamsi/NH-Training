@@ -1,0 +1,8 @@
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\Four-Classes\Four-Classes\bin\Debug\Four-Classes.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\Four-Classes\Four-Classes\bin\Debug\Four-Classes.exe
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\Four-Classes\Four-Classes\bin\Debug\Four-Classes.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\Four-Classes\Four-Classes\obj\Debug\Four-Classes.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\Four-Classes\Four-Classes\obj\Debug\Four-Classes.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\Four-Classes\Four-Classes\obj\Debug\Four-Classes.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\Four-Classes\Four-Classes\obj\Debug\Four-Classes.exe
+D:\NB HealthCare Training\DotNet Projects\Day 7 Morning Assignment\Four-Classes\Four-Classes\obj\Debug\Four-Classes.pdb
