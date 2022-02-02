@@ -1,0 +1,8 @@
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P5-DoctorClass\D8P5-DoctorClass\obj\Debug\D8P5-DoctorClass.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P5-DoctorClass\D8P5-DoctorClass\obj\Debug\D8P5-DoctorClass.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P5-DoctorClass\D8P5-DoctorClass\obj\Debug\D8P5-DoctorClass.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P5-DoctorClass\D8P5-DoctorClass\bin\Debug\D8P5-DoctorClass.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P5-DoctorClass\D8P5-DoctorClass\bin\Debug\D8P5-DoctorClass.exe
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P5-DoctorClass\D8P5-DoctorClass\bin\Debug\D8P5-DoctorClass.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P5-DoctorClass\D8P5-DoctorClass\obj\Debug\D8P5-DoctorClass.exe
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P5-DoctorClass\D8P5-DoctorClass\obj\Debug\D8P5-DoctorClass.pdb

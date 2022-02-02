@@ -1,0 +1,7 @@
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P1List\D8P1List\obj\Debug\D8P1List.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P1List\D8P1List\obj\Debug\D8P1List.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P1List\D8P1List\bin\Debug\D8P1List.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P1List\D8P1List\bin\Debug\D8P1List.exe
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P1List\D8P1List\bin\Debug\D8P1List.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P1List\D8P1List\obj\Debug\D8P1List.exe
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P1List\D8P1List\obj\Debug\D8P1List.pdb

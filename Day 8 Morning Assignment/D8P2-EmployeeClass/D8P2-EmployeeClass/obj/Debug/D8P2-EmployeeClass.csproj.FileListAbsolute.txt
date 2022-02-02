@@ -1,0 +1,8 @@
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P2-EmployeeClass\D8P2-EmployeeClass\bin\Debug\D8P2-EmployeeClass.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P2-EmployeeClass\D8P2-EmployeeClass\bin\Debug\D8P2-EmployeeClass.exe
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P2-EmployeeClass\D8P2-EmployeeClass\bin\Debug\D8P2-EmployeeClass.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P2-EmployeeClass\D8P2-EmployeeClass\obj\Debug\D8P2-EmployeeClass.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P2-EmployeeClass\D8P2-EmployeeClass\obj\Debug\D8P2-EmployeeClass.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P2-EmployeeClass\D8P2-EmployeeClass\obj\Debug\D8P2-EmployeeClass.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P2-EmployeeClass\D8P2-EmployeeClass\obj\Debug\D8P2-EmployeeClass.exe
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P2-EmployeeClass\D8P2-EmployeeClass\obj\Debug\D8P2-EmployeeClass.pdb

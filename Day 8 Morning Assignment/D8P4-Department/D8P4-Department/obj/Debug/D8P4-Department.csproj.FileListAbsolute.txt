@@ -1,0 +1,8 @@
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P4-Department\D8P4-Department\obj\Debug\D8P4-Department.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P4-Department\D8P4-Department\obj\Debug\D8P4-Department.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P4-Department\D8P4-Department\obj\Debug\D8P4-Department.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P4-Department\D8P4-Department\bin\Debug\D8P4-Department.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P4-Department\D8P4-Department\bin\Debug\D8P4-Department.exe
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P4-Department\D8P4-Department\bin\Debug\D8P4-Department.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P4-Department\D8P4-Department\obj\Debug\D8P4-Department.exe
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P4-Department\D8P4-Department\obj\Debug\D8P4-Department.pdb

@@ -1,0 +1,8 @@
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P3-ProductClass\D8P3-ProductClass\bin\Debug\D8P3-ProductClass.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P3-ProductClass\D8P3-ProductClass\bin\Debug\D8P3-ProductClass.exe
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P3-ProductClass\D8P3-ProductClass\bin\Debug\D8P3-ProductClass.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P3-ProductClass\D8P3-ProductClass\obj\Debug\D8P3-ProductClass.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P3-ProductClass\D8P3-ProductClass\obj\Debug\D8P3-ProductClass.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P3-ProductClass\D8P3-ProductClass\obj\Debug\D8P3-ProductClass.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P3-ProductClass\D8P3-ProductClass\obj\Debug\D8P3-ProductClass.exe
+D:\NB HealthCare Training\DotNet Projects\Day 8 Morning Assignment\D8P3-ProductClass\D8P3-ProductClass\obj\Debug\D8P3-ProductClass.pdb
