@@ -1,0 +1,16 @@
+D:\NB HealthCare Training\DotNet Projects\Day 9 Morning Assignments\Day10Project1\Day10Project1\bin\Debug\Day10Project1.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day 9 Morning Assignments\Day10Project1\Day10Project1\bin\Debug\Day10Project1.exe
+D:\NB HealthCare Training\DotNet Projects\Day 9 Morning Assignments\Day10Project1\Day10Project1\bin\Debug\Day10Project1.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 9 Morning Assignments\Day10Project1\Day10Project1\obj\Debug\Day10Project1.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 9 Morning Assignments\Day10Project1\Day10Project1\obj\Debug\Day10Project1.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day 9 Morning Assignments\Day10Project1\Day10Project1\obj\Debug\Day10Project1.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 9 Morning Assignments\Day10Project1\Day10Project1\obj\Debug\Day10Project1.exe
+D:\NB HealthCare Training\DotNet Projects\Day 9 Morning Assignments\Day10Project1\Day10Project1\obj\Debug\Day10Project1.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 10 Morning Assignment\Day10Project1\Day10Project1\bin\Debug\Day10Project1.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day 10 Morning Assignment\Day10Project1\Day10Project1\bin\Debug\Day10Project1.exe
+D:\NB HealthCare Training\DotNet Projects\Day 10 Morning Assignment\Day10Project1\Day10Project1\bin\Debug\Day10Project1.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 10 Morning Assignment\Day10Project1\Day10Project1\obj\Debug\Day10Project1.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 10 Morning Assignment\Day10Project1\Day10Project1\obj\Debug\Day10Project1.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day 10 Morning Assignment\Day10Project1\Day10Project1\obj\Debug\Day10Project1.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 10 Morning Assignment\Day10Project1\Day10Project1\obj\Debug\Day10Project1.exe
+D:\NB HealthCare Training\DotNet Projects\Day 10 Morning Assignment\Day10Project1\Day10Project1\obj\Debug\Day10Project1.pdb
