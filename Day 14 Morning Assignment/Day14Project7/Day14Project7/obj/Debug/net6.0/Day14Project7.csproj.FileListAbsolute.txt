@@ -1,0 +1,15 @@
+D:\NB HealthCare Training\DotNet Projects\Day 14 Morning Assignment\Day14Project7\Day14Project7\bin\Debug\net6.0\Day14Project7.exe
+D:\NB HealthCare Training\DotNet Projects\Day 14 Morning Assignment\Day14Project7\Day14Project7\bin\Debug\net6.0\Day14Project7.deps.json
+D:\NB HealthCare Training\DotNet Projects\Day 14 Morning Assignment\Day14Project7\Day14Project7\bin\Debug\net6.0\Day14Project7.runtimeconfig.json
+D:\NB HealthCare Training\DotNet Projects\Day 14 Morning Assignment\Day14Project7\Day14Project7\bin\Debug\net6.0\Day14Project7.dll
+D:\NB HealthCare Training\DotNet Projects\Day 14 Morning Assignment\Day14Project7\Day14Project7\bin\Debug\net6.0\ref\Day14Project7.dll
+D:\NB HealthCare Training\DotNet Projects\Day 14 Morning Assignment\Day14Project7\Day14Project7\bin\Debug\net6.0\Day14Project7.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 14 Morning Assignment\Day14Project7\Day14Project7\obj\Debug\net6.0\Day14Project7.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 14 Morning Assignment\Day14Project7\Day14Project7\obj\Debug\net6.0\Day14Project7.GeneratedMSBuildEditorConfig.editorconfig
+D:\NB HealthCare Training\DotNet Projects\Day 14 Morning Assignment\Day14Project7\Day14Project7\obj\Debug\net6.0\Day14Project7.AssemblyInfoInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 14 Morning Assignment\Day14Project7\Day14Project7\obj\Debug\net6.0\Day14Project7.AssemblyInfo.cs
+D:\NB HealthCare Training\DotNet Projects\Day 14 Morning Assignment\Day14Project7\Day14Project7\obj\Debug\net6.0\Day14Project7.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 14 Morning Assignment\Day14Project7\Day14Project7\obj\Debug\net6.0\Day14Project7.dll
+D:\NB HealthCare Training\DotNet Projects\Day 14 Morning Assignment\Day14Project7\Day14Project7\obj\Debug\net6.0\ref\Day14Project7.dll
+D:\NB HealthCare Training\DotNet Projects\Day 14 Morning Assignment\Day14Project7\Day14Project7\obj\Debug\net6.0\Day14Project7.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 14 Morning Assignment\Day14Project7\Day14Project7\obj\Debug\net6.0\Day14Project7.genruntimeconfig.cache
