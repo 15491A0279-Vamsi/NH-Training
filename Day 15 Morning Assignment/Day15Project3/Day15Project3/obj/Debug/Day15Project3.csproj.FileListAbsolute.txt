@@ -1,0 +1,8 @@
+D:\NB HealthCare Training\DotNet Projects\Day 15 Morning Assignment\Day15Project3\Day15Project3\bin\Debug\Day15Project3.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day 15 Morning Assignment\Day15Project3\Day15Project3\bin\Debug\Day15Project3.exe
+D:\NB HealthCare Training\DotNet Projects\Day 15 Morning Assignment\Day15Project3\Day15Project3\bin\Debug\Day15Project3.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 15 Morning Assignment\Day15Project3\Day15Project3\obj\Debug\Day15Project3.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 15 Morning Assignment\Day15Project3\Day15Project3\obj\Debug\Day15Project3.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day 15 Morning Assignment\Day15Project3\Day15Project3\obj\Debug\Day15Project3.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 15 Morning Assignment\Day15Project3\Day15Project3\obj\Debug\Day15Project3.exe
+D:\NB HealthCare Training\DotNet Projects\Day 15 Morning Assignment\Day15Project3\Day15Project3\obj\Debug\Day15Project3.pdb
