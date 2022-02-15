@@ -1,0 +1,5 @@
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\VamsiLibrary\VamsiLibrary\bin\Debug\VamsiLibrary.dll
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\VamsiLibrary\VamsiLibrary\bin\Debug\VamsiLibrary.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\VamsiLibrary\VamsiLibrary\obj\Debug\VamsiLibrary.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\VamsiLibrary\VamsiLibrary\obj\Debug\VamsiLibrary.dll
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\VamsiLibrary\VamsiLibrary\obj\Debug\VamsiLibrary.pdb

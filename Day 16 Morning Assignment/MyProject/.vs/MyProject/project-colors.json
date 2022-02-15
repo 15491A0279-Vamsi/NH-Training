@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "84c25e16-535b-4d42-9e63-cc32c6d9e3db": {
+      "ProjectGuid": "84c25e16-535b-4d42-9e63-cc32c6d9e3db",
+      "DisplayName": "MyWindowsApp.cs",
+      "ColorIndex": 0
+    },
+    "3d6f68fc-a030-4db3-962a-434ef96ddb52": {
+      "ProjectGuid": "3d6f68fc-a030-4db3-962a-434ef96ddb52",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 1
+    },
+    "7a610a77-b09a-4390-acf3-96a041952a2c": {
+      "ProjectGuid": "7a610a77-b09a-4390-acf3-96a041952a2c",
+      "DisplayName": "VamsiKrishnaLibrary",
+      "ColorIndex": 2
+    },
+    "cc79a9f4-ffaf-452d-92fe-ba4f40f440e4": {
+      "ProjectGuid": "cc79a9f4-ffaf-452d-92fe-ba4f40f440e4",
+      "DisplayName": "ClientApp",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

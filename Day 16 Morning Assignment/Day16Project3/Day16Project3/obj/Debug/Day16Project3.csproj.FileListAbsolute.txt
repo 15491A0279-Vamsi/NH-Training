@@ -1,0 +1,11 @@
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\Day16Project3\Day16Project3\bin\Debug\Day16Project3.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\Day16Project3\Day16Project3\bin\Debug\Day16Project3.exe
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\Day16Project3\Day16Project3\bin\Debug\Day16Project3.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\Day16Project3\Day16Project3\bin\Debug\VamsiLibrary.dll
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\Day16Project3\Day16Project3\bin\Debug\VamsiLibrary.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\Day16Project3\Day16Project3\obj\Debug\Day16Project3.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\Day16Project3\Day16Project3\obj\Debug\Day16Project3.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\Day16Project3\Day16Project3\obj\Debug\Day16Project3.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\Day16Project3\Day16Project3\obj\Debug\Day16Project3.csproj.CopyComplete
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\Day16Project3\Day16Project3\obj\Debug\Day16Project3.exe
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\Day16Project3\Day16Project3\obj\Debug\Day16Project3.pdb

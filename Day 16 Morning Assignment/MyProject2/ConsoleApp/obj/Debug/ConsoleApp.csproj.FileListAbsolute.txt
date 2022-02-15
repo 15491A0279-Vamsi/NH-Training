@@ -1,0 +1,11 @@
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject2\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject2\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject2\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject2\ConsoleApp\bin\Debug\VamsiKrishnaLibrary.dll
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject2\ConsoleApp\bin\Debug\VamsiKrishnaLibrary.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject2\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject2\ConsoleApp\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject2\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject2\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject2\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject2\ConsoleApp\obj\Debug\ConsoleApp.pdb

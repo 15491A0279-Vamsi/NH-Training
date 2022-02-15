@@ -1,0 +1,16 @@
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject\Day16Project9\bin\Debug\Day16Project9.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject\Day16Project9\bin\Debug\Day16Project9.exe
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject\Day16Project9\bin\Debug\Day16Project9.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject\Day16Project9\bin\Debug\PublicLibrary.dll
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject\Day16Project9\bin\Debug\VamsiKrishnaLibrary.dll
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject\Day16Project9\bin\Debug\PublicLibrary.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject\Day16Project9\bin\Debug\VamsiKrishnaLibrary.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject\Day16Project9\obj\Debug\MyWindowsApp.cs.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject\Day16Project9\obj\Debug\MyWindowsApp.cs.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject\Day16Project9\obj\Debug\Day16Project9.Form1.resources
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject\Day16Project9\obj\Debug\Day16Project9.Properties.Resources.resources
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject\Day16Project9\obj\Debug\MyWindowsApp.cs.csproj.GenerateResource.cache
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject\Day16Project9\obj\Debug\MyWindowsApp.cs.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject\Day16Project9\obj\Debug\MyWindowsApp.cs.csproj.CopyComplete
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject\Day16Project9\obj\Debug\Day16Project9.exe
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject\Day16Project9\obj\Debug\Day16Project9.pdb

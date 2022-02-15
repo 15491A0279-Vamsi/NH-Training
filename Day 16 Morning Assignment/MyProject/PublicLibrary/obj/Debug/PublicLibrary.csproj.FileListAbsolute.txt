@@ -1,0 +1,6 @@
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject\PublicLibrary\bin\Debug\PublicLibrary.dll
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject\PublicLibrary\bin\Debug\PublicLibrary.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject\PublicLibrary\obj\Debug\PublicLibrary.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject\PublicLibrary\obj\Debug\PublicLibrary.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject\PublicLibrary\obj\Debug\PublicLibrary.dll
+D:\NB HealthCare Training\DotNet Projects\Day 16 Morning Assignment\MyProject\PublicLibrary\obj\Debug\PublicLibrary.pdb

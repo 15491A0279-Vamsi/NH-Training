@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a9c9bac4-603f-420d-81c2-2ba4c7e9aecf": {
+      "ProjectGuid": "a9c9bac4-603f-420d-81c2-2ba4c7e9aecf",
+      "DisplayName": "VamsiKrishnaLibrary",
+      "ColorIndex": 0
+    },
+    "cb80f81f-0284-4908-a1ff-1ce752a06719": {
+      "ProjectGuid": "cb80f81f-0284-4908-a1ff-1ce752a06719",
+      "DisplayName": "ConsoleApp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
