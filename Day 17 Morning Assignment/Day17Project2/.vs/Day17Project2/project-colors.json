@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "42da7cc0-f01c-4f8b-840a-76efce5c1efb": {
+      "ProjectGuid": "42da7cc0-f01c-4f8b-840a-76efce5c1efb",
+      "DisplayName": "VamsiKrishnaLibrary",
+      "ColorIndex": 0
+    },
+    "a5baced3-861d-4f79-90d8-eb3cb3c51cf8": {
+      "ProjectGuid": "a5baced3-861d-4f79-90d8-eb3cb3c51cf8",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 1
+    },
+    "4a81bbcc-cc03-48b2-be95-90b36d7561d9": {
+      "ProjectGuid": "4a81bbcc-cc03-48b2-be95-90b36d7561d9",
+      "DisplayName": "ConsoleApp",
+      "ColorIndex": 2
+    },
+    "9d0fb6a3-cb0d-4b6f-b5e0-3681b5fc4b40": {
+      "ProjectGuid": "9d0fb6a3-cb0d-4b6f-b5e0-3681b5fc4b40",
+      "DisplayName": "VamsiKrishnaLibrary",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
