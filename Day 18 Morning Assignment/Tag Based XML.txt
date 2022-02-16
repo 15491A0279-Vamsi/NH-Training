@@ -1,0 +1,61 @@
+<products>
+  <laptop>
+    <brand>HP</brand>
+    <price>50000</price>
+    <ram>8GB</ram>
+  </laptop>
+
+  <mobile>
+    <brand>Vivo</brand>
+    <price>20000</price>
+    <ram>4GB</ram>
+  </mobile>
+
+  <shirt>
+    <brand>John Players</brand>
+    <price>5000</price>
+    <color>white</color>
+  </shirt>
+
+  <tv>
+    <brand>Samsung</brand>
+    <price>25000</price>
+    <color>black</color>
+  </tv>
+
+  <bike>
+    <brand>Royal Enfield</brand>
+    <price>200000</price>
+    <color>Grey</color>
+  </bike>
+
+  <car>
+    <brand>BMW</brand>
+    <price>2000000</price>
+    <color>Blue</color>
+  </car>
+
+  <bicycle>
+    <brand>Hero</brand>
+    <price>2000</price>
+    <color>Black</color>
+  </bicycle>
+
+  <mouse>
+    <brand>Dell</brand>
+    <price>150</price>
+    <color>Black</color>
+  </mouse>
+
+  <keyboard>
+    <brand>HP</brand>
+    <price>200</price>
+    <color>Black</color>
+  </keyboard>
+
+  <watch>
+    <brand>Apple</brand>
+    <price>1900</price>
+    <color>Black</color>
+  </watch>
+</products>

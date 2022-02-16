@@ -1,0 +1,13 @@
+<products>
+  <Laptop brand = "HP" price = "50000" ram = "8GB" ></Laptop>
+  <Mobile brand = "Vivo" price = "20000" ram = "4GB" ></Mobile>
+  <shirt brand = "John Players" price = "5000" color = "White"></shirt> 
+  <tv brand = "Samsung" price = "25000" color = "black" ></tv>
+  <bike brand = "Royal Enfield" price = "200000" color = "Grey" ></bike>
+  <car brand = "BMW" price = "2000000" color = "Blue" ></car>
+  <bicycle brand = "Hero" price = "2000" color = "Black"></bicycle> 
+  <mouse brand = "HP" price = "150" color = "Black" ></mouse>
+  <keyboard brand = "HP" price = "200" color = "Black"></keyboard>
+  <watch brand = "Apple" price = "1900" color = "Black"></watch> 
+</products>
+    

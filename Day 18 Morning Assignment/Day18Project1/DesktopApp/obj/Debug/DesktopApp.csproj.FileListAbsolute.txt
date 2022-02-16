@@ -1,0 +1,14 @@
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\DesktopApp\bin\Debug\DesktopApp.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\DesktopApp\bin\Debug\DesktopApp.exe
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\DesktopApp\bin\Debug\DesktopApp.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\DesktopApp\bin\Debug\MathematicsLibrary.dll
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\DesktopApp\bin\Debug\MathematicsLibrary.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\DesktopApp\obj\Debug\DesktopApp.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\DesktopApp\obj\Debug\DesktopApp.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\DesktopApp\obj\Debug\DesktopApp.Form1.resources
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.cache
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\DesktopApp\obj\Debug\DesktopApp.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\DesktopApp\obj\Debug\DesktopApp.csproj.CopyComplete
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\DesktopApp\obj\Debug\DesktopApp.exe
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\DesktopApp\obj\Debug\DesktopApp.pdb

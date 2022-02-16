@@ -1,0 +1,11 @@
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\Day18Project1\bin\Debug\Day18Project1.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\Day18Project1\bin\Debug\Day18Project1.exe
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\Day18Project1\bin\Debug\Day18Project1.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\Day18Project1\bin\Debug\MathematicsLibrary.dll
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\Day18Project1\bin\Debug\MathematicsLibrary.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\Day18Project1\obj\Debug\Day18Project1.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\Day18Project1\obj\Debug\Day18Project1.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\Day18Project1\obj\Debug\Day18Project1.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\Day18Project1\obj\Debug\Day18Project1.csproj.CopyComplete
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\Day18Project1\obj\Debug\Day18Project1.exe
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\Day18Project1\obj\Debug\Day18Project1.pdb

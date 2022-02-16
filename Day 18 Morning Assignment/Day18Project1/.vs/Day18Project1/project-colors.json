@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7ec1d6bc-6f47-4e1b-a2aa-343df6397de0": {
+      "ProjectGuid": "7ec1d6bc-6f47-4e1b-a2aa-343df6397de0",
+      "DisplayName": "Day18Project1",
+      "ColorIndex": 0
+    },
+    "509d9a84-f402-4948-9b5a-496171b4d6dc": {
+      "ProjectGuid": "509d9a84-f402-4948-9b5a-496171b4d6dc",
+      "DisplayName": "MathematicsLibrary",
+      "ColorIndex": 1
+    },
+    "839ed991-3074-4f4e-8385-ca11b339dd1f": {
+      "ProjectGuid": "839ed991-3074-4f4e-8385-ca11b339dd1f",
+      "DisplayName": "DesktopApp",
+      "ColorIndex": 2
+    },
+    "706a2810-435f-41e6-9f41-485f4ca33481": {
+      "ProjectGuid": "706a2810-435f-41e6-9f41-485f4ca33481",
+      "DisplayName": "MathematicsLibraryTests",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
