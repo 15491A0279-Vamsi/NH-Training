@@ -62,6 +62,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Day18Project1\Day18Project1.csproj">
+      <Project>{7ec1d6bc-6f47-4e1b-a2aa-343df6397de0}</Project>
+      <Name>Day18Project1</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MathematicsLibrary\MathematicsLibrary.csproj">
       <Project>{509D9A84-F402-4948-9B5A-496171B4D6DC}</Project>
       <Name>MathematicsLibrary</Name>

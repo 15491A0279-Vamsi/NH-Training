@@ -18,6 +18,8 @@ namespace Day18Project1
 
             Console.WriteLine(Algebra.Factorial(n));
 
+            Console.WriteLine(Algebra.IsPalindrome(n));
+
             Console.ReadLine();
         }
     }

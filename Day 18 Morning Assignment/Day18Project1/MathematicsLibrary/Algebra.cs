@@ -28,27 +28,19 @@ namespace MathematicsLibrary
 
         public static bool IsPalindrome(int n)
         {
-            int m, rem, rev = 0;
-
-            Console.WriteLine("Enter any Number");
-            n = Convert.ToInt32(Console.ReadLine());
-
+            int rev = 0, rem, m;
             m = n;
             while (m > 0)
             {
                 rem = m % 10;
                 m = m / 10;
-                rev = rev * 10 + rem;
+                rev = rev % 10 + rem;
 
             }
-            if (n == rev)
-            {
+            if(n == rev)
                 return true;
-            }
             else
-            {
-               return false;
-            }
+                return false;
 
         }
     }

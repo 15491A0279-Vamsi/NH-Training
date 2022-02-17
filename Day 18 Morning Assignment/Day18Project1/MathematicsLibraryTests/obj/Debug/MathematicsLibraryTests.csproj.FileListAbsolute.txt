@@ -15,3 +15,6 @@ D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project
 D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\MathematicsLibraryTests\obj\Debug\MathematicsLibraryTests.csproj.CopyComplete
 D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\MathematicsLibraryTests\obj\Debug\MathematicsLibraryTests.dll
 D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\MathematicsLibraryTests\obj\Debug\MathematicsLibraryTests.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\MathematicsLibraryTests\bin\Debug\Day18Project1.exe
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\MathematicsLibraryTests\bin\Debug\Day18Project1.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 18 Morning Assignment\Day18Project1\MathematicsLibraryTests\bin\Debug\Day18Project1.exe.config

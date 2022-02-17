@@ -36,7 +36,7 @@ namespace MathematicsLibrary.Tests
             int actual = Algebra.Factorial(n);
 
             //Assert
-            Assert.AreEqual(expected,actual);
+            Assert.AreEqual(expected, actual);
         }
 
         [TestMethod()]
@@ -50,7 +50,7 @@ namespace MathematicsLibrary.Tests
             int actual = Algebra.Factorial(n);
 
             //Assert
-            Assert.AreEqual(expected,actual);
+            Assert.AreEqual(expected, actual);
         }
 
         [TestMethod()]
@@ -64,21 +64,22 @@ namespace MathematicsLibrary.Tests
             int actual = Algebra.Factorial(n);
 
             //Assert
-            Assert.AreEqual(expected,actual);
+            Assert.AreEqual(expected, actual);
         }
 
         [TestMethod()]
-        public void PalindromeTest_Input()
+        public void IsPalindromeTest()
         {
             //Arrange
-            int n = 95;
-            bool expected = true;
+            int n = 121;
+            bool expected = false;
 
             //Act
-            int actual = Algebra.IsPalindrome(n);
+            bool actual = Algebra.IsPalindrome(n);
 
             //Assert
             Assert.AreEqual(expected, actual);
+
         }
     }
 }
