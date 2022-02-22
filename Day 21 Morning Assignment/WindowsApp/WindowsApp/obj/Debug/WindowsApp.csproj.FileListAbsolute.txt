@@ -1,0 +1,11 @@
+D:\NB HealthCare Training\DotNet Projects\Day 21 Morning Assignment\WindowsApp\WindowsApp\bin\Debug\WindowsApp.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day 21 Morning Assignment\WindowsApp\WindowsApp\bin\Debug\WindowsApp.exe
+D:\NB HealthCare Training\DotNet Projects\Day 21 Morning Assignment\WindowsApp\WindowsApp\bin\Debug\WindowsApp.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 21 Morning Assignment\WindowsApp\WindowsApp\obj\Debug\WindowsApp.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 21 Morning Assignment\WindowsApp\WindowsApp\obj\Debug\WindowsApp.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day 21 Morning Assignment\WindowsApp\WindowsApp\obj\Debug\WindowsApp.Form1.resources
+D:\NB HealthCare Training\DotNet Projects\Day 21 Morning Assignment\WindowsApp\WindowsApp\obj\Debug\WindowsApp.Properties.Resources.resources
+D:\NB HealthCare Training\DotNet Projects\Day 21 Morning Assignment\WindowsApp\WindowsApp\obj\Debug\WindowsApp.csproj.GenerateResource.cache
+D:\NB HealthCare Training\DotNet Projects\Day 21 Morning Assignment\WindowsApp\WindowsApp\obj\Debug\WindowsApp.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 21 Morning Assignment\WindowsApp\WindowsApp\obj\Debug\WindowsApp.exe
+D:\NB HealthCare Training\DotNet Projects\Day 21 Morning Assignment\WindowsApp\WindowsApp\obj\Debug\WindowsApp.pdb
