@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f787b511-6225-4f03-89d4-379827fd03de": {
+      "ProjectGuid": "f787b511-6225-4f03-89d4-379827fd03de",
+      "DisplayName": "VamsiFinalProject",
+      "ColorIndex": 0
+    },
+    "a5a4158b-2aa6-4a7a-9e01-3264fe58fe15": {
+      "ProjectGuid": "a5a4158b-2aa6-4a7a-9e01-3264fe58fe15",
+      "DisplayName": "VamsiClientApp",
+      "ColorIndex": 1
+    },
+    "66214321-f0c3-4612-9ec8-449821b8896c": {
+      "ProjectGuid": "66214321-f0c3-4612-9ec8-449821b8896c",
+      "DisplayName": "BusinessLogicLibrary",
+      "ColorIndex": 2
+    },
+    "5a0a1696-dee0-40b2-9035-e453240683de": {
+      "ProjectGuid": "5a0a1696-dee0-40b2-9035-e453240683de",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

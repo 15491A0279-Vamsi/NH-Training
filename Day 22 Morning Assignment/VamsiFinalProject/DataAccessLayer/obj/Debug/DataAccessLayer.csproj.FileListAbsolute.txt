@@ -1,0 +1,5 @@
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

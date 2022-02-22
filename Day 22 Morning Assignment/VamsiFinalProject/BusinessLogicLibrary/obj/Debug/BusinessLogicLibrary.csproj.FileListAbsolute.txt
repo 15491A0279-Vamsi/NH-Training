@@ -1,0 +1,9 @@
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.dll
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\BusinessLogicLibrary\bin\Debug\DataAccessLayer.dll
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\BusinessLogicLibrary\bin\Debug\DataAccessLayer.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CopyComplete
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.dll
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.pdb

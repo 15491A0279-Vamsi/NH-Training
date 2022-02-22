@@ -1,0 +1,13 @@
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\VamsiClientApp\bin\Debug\VamsiClientApp.exe.config
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\VamsiClientApp\bin\Debug\VamsiClientApp.exe
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\VamsiClientApp\bin\Debug\VamsiClientApp.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\VamsiClientApp\bin\Debug\BusinessLogicLibrary.dll
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\VamsiClientApp\bin\Debug\DataAccessLayer.dll
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\VamsiClientApp\bin\Debug\BusinessLogicLibrary.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\VamsiClientApp\bin\Debug\DataAccessLayer.pdb
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\VamsiClientApp\obj\Debug\VamsiClientApp.csproj.AssemblyReference.cache
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\VamsiClientApp\obj\Debug\VamsiClientApp.csproj.SuggestedBindingRedirects.cache
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\VamsiClientApp\obj\Debug\VamsiClientApp.csproj.CoreCompileInputs.cache
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\VamsiClientApp\obj\Debug\VamsiClientApp.csproj.CopyComplete
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\VamsiClientApp\obj\Debug\VamsiClientApp.exe
+D:\NB HealthCare Training\DotNet Projects\Day 22 Morning Assignment\VamsiFinalProject\VamsiClientApp\obj\Debug\VamsiClientApp.pdb
